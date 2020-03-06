@@ -8,5 +8,4 @@
     node server.js (main directory)
     npm start(in vidyapeeth-agent directory)
 
-# Screen![Screen](./screenshots/view.png)
 # Video![Video](./screenshots/video.gif)
